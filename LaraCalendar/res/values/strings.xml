@@ -3,6 +3,8 @@
 
     <string name="caAppName">Lara Calendar</string>
     <string name="caSplashScreenImageViewContentDescription1">Imagén logo de la aplicación</string>
+    <string name="caHomeCalendarTextView1">Próximos eventos</string>
+    <string name="caHomeCalendarImageViewContentDescription1">Imágen para filtros</string>
     <string name="title_activity_ca_home_calendar">Lara Calendar</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
